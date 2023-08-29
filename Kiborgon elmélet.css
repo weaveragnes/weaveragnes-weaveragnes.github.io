@@ -17,7 +17,7 @@ h2 {
 h3 {
     text-align: justify;
     font-family: sans-serif;
-    margin: 30px 50px 10px 50px;
+    margin: 60px 50px 30px 150px;
 }
 p {
     font-family: sans-serif;
@@ -49,12 +49,11 @@ h4 {
     font-size: 22px;
     margin-left: 300px;
     margin-right: 300px;
-    margin: 30px 50px 10px 50px;
 }
 img {
     border-style: double;
-    width: 250px;
-    margin: 10px 10px 10px 10px;
+    width: 500px;
+    margin: 10px 10px 10px 400px;
       background-color: black
     box-shadow: 15px 15px 30px 15px
     }
